@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Go Spendr',
+      title: 'Go Spendr Store',
       debugShowCheckedModeBanner: false,
       theme: theme(),
       home: MultiRepositoryProvider(
